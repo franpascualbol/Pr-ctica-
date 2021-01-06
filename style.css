@@ -1,0 +1,14 @@
+p.uno {
+    background-color: black;
+    color: orange;
+    text-align: center;
+}
+
+img  {
+    height: 100px;
+    width: 100px;
+}
+    
+p {
+    font-weight: bold;
+}
